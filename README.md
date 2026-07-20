@@ -118,7 +118,7 @@ Click here to view the live application
 
 - 💼 Aspiring Software Engineer
 - 📍 Bengaluru, India
-- 📧 Email: your.email@example.com
+- 📧 Email: manjunathgl064@gmail.com
 </p>
 
 If you want to contact me, you can reach me through below handles.
