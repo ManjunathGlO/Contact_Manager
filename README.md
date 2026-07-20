@@ -111,21 +111,25 @@ Click here to view the live application
 </ul>
 
 ---
+  
+## 👤 Author
 
-<h2>🙋‍♂️ Author</h2>
+**Manjunath G L**
 
-<p>
-<b>Manjunath GL</b><br>
-Python Full Stack Developer
+- 💼 Aspiring Software Engineer
+- 📍 Bengaluru, India
+- 📧 Email: your.email@example.com
 </p>
 
----
+If you want to contact me, you can reach me through below handles.
 
-<h2>📧 Contact</h2>
+<a href="https://www.linkedin.com/in/manjunathgl/" target="_blank">
+  <img src="https://img.shields.io/badge/ManjunathGL-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+</a>
 
-<p>
-Email: manjunathgl064@gmail.com
-</p>
+<a href="https://github.com/ManjunathGlO" target="_blank">
+  <img src="https://img.shields.io/badge/ManjunathGl-20232A?style=for-the-badge&logo=Github&logoColor=white" alt="Twitter"/>
+</a>
 
 ---
 
